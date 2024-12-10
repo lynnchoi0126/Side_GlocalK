@@ -1,6 +1,6 @@
-# recsys_submission
+# Side_GlocalK
  
-Entertainment Recommendation System (24-2) Final Project
+_Entertainment Recommendation System (24-2) Final Project_
 
 ### Proposed Method
 * Glocal K + IMDB Side Information as additional input feature
